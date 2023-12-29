@@ -1,0 +1,17 @@
+{
+  "trip_id": 3,
+  "trip_name": "대전 맛집투어",
+  "start_date": "2024-01-05 00:00:00",
+  "end_date": "2024-01-10 00:00:00",
+  "itineraries": [
+    {
+      "itinerary_id": 1,
+      "departure_place": "대전터미널",
+      "destination": "성심당",
+      "departure_time": "2024-01-05 09:00:00",
+      "arrival_time": "2024-01-05 10:00:00",
+      "check_in": "2024-01-05 11:00:00",
+      "check_out": "2024-01-05 12:00:00"
+    }
+  ]
+}

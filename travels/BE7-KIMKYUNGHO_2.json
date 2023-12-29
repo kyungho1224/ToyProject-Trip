@@ -1,0 +1,17 @@
+{
+  "trip_id": 2,
+  "trip_name": "제주도 맛집투어",
+  "start_date": "2024-01-01 00:00:00",
+  "end_date": "2024-01-03 00:00:00",
+  "itineraries": [
+    {
+      "itinerary_id": 1,
+      "departure_place": "김포공항",
+      "destination": "제주공항",
+      "departure_time": "2024-01-01 11:00:00",
+      "arrival_time": "2024-01-01 11:40:00",
+      "check_in": "2024-01-01 12:00:00",
+      "check_out": "2024-01-01 13:00:00"
+    }
+  ]
+}

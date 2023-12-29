@@ -1,0 +1,44 @@
+{
+  "trip_id": 1,
+  "trip_name": "오사카여행",
+  "start_date": "2024-01-13 00:00:00",
+  "end_date": "2024-01-15 00:00:00",
+  "itineraries": [
+    {
+      "itinerary_id": 1,
+      "departure_place": "인천공항",
+      "destination": "간사이공항",
+      "departure_time": "2024-01-13 09:00:00",
+      "arrival_time": "2024-01-13 11:10:00",
+      "check_in": "2024-01-13 11:20:00",
+      "check_out": "2024-01-13 11:50:00"
+    },
+    {
+      "itinerary_id": 2,
+      "departure_place": "간사이공항",
+      "destination": "유니버셜스튜디오",
+      "departure_time": "2024-01-13 12:00:00",
+      "arrival_time": "2024-01-13 14:00:00",
+      "check_in": "2024-01-13 14:20:00",
+      "check_out": "2024-01-13 17:50:20"
+    },
+    {
+      "itinerary_id": 3,
+      "departure_place": "유니버셜스튜디오",
+      "destination": "교토 니넨자카 스타벅스",
+      "departure_time": "2024-01-13 18:00:00",
+      "arrival_time": "2024-01-13 19:00:00",
+      "check_in": "2024-01-13 19:20:00",
+      "check_out": "2024-01-13 21:00:00"
+    },
+    {
+      "itinerary_id": 4,
+      "departure_place": "스타벅스",
+      "destination": "숙소",
+      "departure_time": "2024-01-13 19:10:00",
+      "arrival_time": "2024-01-13 22:00:00",
+      "check_in": "2024-01-13 22:10:00",
+      "check_out": "2024-01-14 09:00:00"
+    }
+  ]
+}
